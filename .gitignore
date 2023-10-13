@@ -1,4 +1,5 @@
 ﻿# Default ignored files
+.gitignore
 .idea/
 /shelf/
 /workspace.xml
